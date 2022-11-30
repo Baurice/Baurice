@@ -1,0 +1,55 @@
+# Title: LGblock/hosts
+#
+# This hosts file is a merged collection of hosts from reddit supposed to block LG WebOS ads. May also affect voice commands, weather, etc.)
+#
+# Date: 30 November 2022 00:30:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Baurice/hosts/master/hosts
+# ===============================================================
+
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 ibis.lgappstv.com
+
+# added after fork
+# from https://www.reddit.com/r/pihole/comments/6qmpv6/blacklists_for_lg_webos_tvs/ and others
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com
+0.0.0.0 yumenetworks.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartclip.com
+
+# non us
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 ibs.lgappstv.com
+0.0.0.0 lgtvsdp.com
+0.0.0.0 lgappstv.com
+0.0.0.0 smartshare.lgtvsdp.com
+
+# added
+0.0.0.0 cdpsvc.lgtvcommon.com
+0.0.0.0 homeprv.lgtvcommon.com
+0.0.0.0 nudge.lgtvcommon.com
+0.0.0.0 rdl.lgtvcommon.com
+0.0.0.0 recommend.lgtvcommon.com
+0.0.0.0 lgsmartad.com
+0.0.0.0 cdpbeacon.lgtvcommon.com
+0.0.0.0 service.lgtvcommon.com
+
+0.0.0.0 netflixvoice.lgtvcommon.com
+0.0.0.0 discovery.meethue.com
+0.0.0.0 de.rdx2.lgtvsdp.com
+0.0.0.0 de.ibs.lgappstv.com
+0.0.0.0 eic.cdpbeacon.lgtvcommon.com
+0.0.0.0 eic.cdpsvc.lgtvcommon.com
+0.0.0.0 eic.homeprv.lgtvcommon.com
+0.0.0.0 eic.nudge.lgtvcommon.com
+0.0.0.0 eic.rdl.lgtvcommon.com
+0.0.0.0 eic.recommend.lgtvcommon.com
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 cm.everesttech.net
